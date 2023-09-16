@@ -2,4 +2,4 @@
 
 Dataset is for 2 years ago
 
-*main.html is out put of the analyze*
+*main.html is output of the analyze*
